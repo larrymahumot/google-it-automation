@@ -2,7 +2,7 @@
 
 # [Google IT Automation with Python Professional Certificate](https://www.coursera.org/professional-certificates/google-it-automation)
 
-<a href="https://drive.google.com/file/d/1_93-aIsJHKzwoaj2h6dxJAqITIESUtWg/view?usp=sharing"><img src="https://imgur.com/yvOR00t" border="0"></a>
+<a href="https://i.imgur.com"><img src="[img]https://i.imgur.com/yvOR00t.jpg[/img]" border="0"></a>
 
 * All copyrighted materials belong to Coursera, this repository written for reference purpose
 
