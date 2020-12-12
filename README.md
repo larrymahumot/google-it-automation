@@ -1,7 +1,6 @@
 # [Google IT Automation with Python Professional Certificate](https://www.coursera.org/professional-certificates/google-it-automation)
 
-<a href="https://imgur.com/yvOR00t"><img src="https://i.imgur.com/yvOR00t.jpg" border="0"></a>
-
+![cert](https://github.com/larrymahumot/google-it-support/blob/main/Coursera%20C2HRL2Y6TFJY.jpg)
 * All copyrighted materials belong to Coursera, this repository written for reference purpose
 
 ## About this Professional Certificate
